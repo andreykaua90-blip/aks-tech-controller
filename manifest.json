@@ -2,15 +2,15 @@
   "name": "AKS Tech Controller",
   "short_name": "AKS Tech",
   "description": "Painel de controle térmico universal para ventoinhas de consoles via Bluetooth BLE.",
-  "start_url": "./index.html",
-  "scope": "./",
+  "start_url": "/aks-tech-controller/",
+  "scope": "/aks-tech-controller/",
   "display": "standalone",
   "background_color": "#0a0d12",
   "theme_color": "#0a0d12",
   "orientation": "portrait",
   "icons": [
     {
-      "src": "icon.png",
+      "src": "/aks-tech-controller/icon.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any maskable"
